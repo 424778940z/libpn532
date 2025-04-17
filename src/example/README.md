@@ -1,0 +1,1 @@
+This usage example is based on STM32 HAL, to port it you have to implement your own lowlevel interface methods
